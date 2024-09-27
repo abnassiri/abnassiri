@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning about python 
 - 💞️ I’m looking to collaborate on python script
 - 📫 How to reach me : abdelaaziz.nassiri@gmail.com
+- I started a PhD statdy at Mohamadia ENSET
 
 <!---
 abnassiri/abnassiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
